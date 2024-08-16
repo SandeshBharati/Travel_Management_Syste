@@ -1,0 +1,6 @@
+Customer ID: 234
+Name: Sandesh
+Age: 23
+Mobile Number: 98170165444
+Address: Arjundhara
+Gender: Male
